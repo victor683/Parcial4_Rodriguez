@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_asignatura" android:title="asignatura"
+            android:icon="@drawable/baseline_asignatura"
+            />
+        <item android:id="@+id/nav_evento" android:title="evento"
+            android:icon="@drawable/baseline_evento"
+            />
+        <item android:id="@+id/nav_horario" android:title="horario"
+            android:icon="@drawable/baseline_horario"
+            />
+
+    </group>
+
+</menu>
