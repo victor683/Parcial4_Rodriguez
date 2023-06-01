@@ -11,6 +11,9 @@
         <item android:id="@+id/nav_horario" android:title="horario"
             android:icon="@drawable/baseline_horario"
             />
+        <item android:id="@+id/nav_deber" android:title="deber"
+            android:icon="@drawable/baseline_deber"
+            />
 
     </group>
 

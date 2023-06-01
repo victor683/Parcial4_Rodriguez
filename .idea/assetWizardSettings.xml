@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$PROJECT_DIR$/../../SDKManager/icons/material/materialicons/swipe_up/baseline_swipe_up_24.xml" />
+                                      <entry key="url" value="file:/$PROJECT_DIR$/../../SDKManager/icons/material/materialicons/airline_seat_recline_normal/baseline_airline_seat_recline_normal_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -29,7 +29,7 @@
                         <option name="values">
                           <map>
                             <entry key="color" value="111111" />
-                            <entry key="outputName" value="baseline_evento" />
+                            <entry key="outputName" value="baseline_deber" />
                             <entry key="sourceFile" value="C:\Aguiluz_2559022015\Parcial4_Rodriguez" />
                           </map>
                         </option>
